@@ -1,0 +1,135 @@
+   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sir Ratan Tata</title>
+</head>
+<body>
+    <!--this is login page-->
+<h3>
+    Login Information
+</h3> 
+<form action="\action.php">
+    <input type="text" placeholder="username">
+    <br>
+    <br>
+     <input type="password" placeholder="password">
+</form> 
+<!--here the intro to sir ratan tata starts--> 
+<h1><b><u>Sir Ratan Tata</u></b></h1>
+<br>
+<a href ="https://www.google.com" target="_main"><img src ="https://images.livemint.com/img/2020/02/13/1600x900/Humans_of_Bombay_1581582661805.jpg" height="200"
+alt="Sir Ratan Tata"></a>
+<br>
+<a href="https://www.google.com" target="_main">GOOGLE</a>
+<br>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/PA8IptS2wQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen controls loop></iframe>"
+<br>
+<table>
+    <thead>
+        <h2>Sir Ratan Tata</h2>
+        <th colspan ="2">LIFE</th>
+        <tr>
+            <th>
+                SIR RATAN TATA
+            </th>
+            <th>EDUCATION</th>
+        </tr>
+    </thead>
+    <tr>
+        <tbody>
+            <td>
+                school
+            </td>
+            <td>
+                jai hind high school
+            </td>
+        </tbody>
+        <tbody>
+            <td>
+                college
+            </td>
+            <td>
+                NMIET
+            </td>
+        </tbody>
+    </tr>
+</table>
+
+    <br>
+    <h3>Introduction</h3>
+    <p><pre>
+    Ratan Naval Tata (born 28 December 1937) is an Indian industrialist, philanthropist and former chairman of Tata Sons.
+He was a chairman of the Tata Group from 1990 to 2012, and interim chairman from October 2016 through February 2017.
+He continues to head its charitable trusts.[2][3] In 2008, he received the Padma Vibhushan, the second highest civilian 
+honour in India, after receiving the Padma Bhushan, the third highest civilian honour in 2000.[4]
+
+    He is the son of Naval Tata, who was adopted by Ratanji Tata, son of Jamsetji Tata, the founder of the Tata Group. 
+He graduated from the Cornell University College of Architecture with a bachelor's degree in architecture.[5] 
+He joined Tata in 1961, where he worked on the shop floor of Tata Steel. He later succeeded J. R. D. Tata as 
+chairman of Tata Sons upon the latter's retirement in 1991. Under his tenure the Tata Group acquired Tetley, 
+Jaguar Land Rover, and Corus, in an attempt to turn Tata from a largely India-centric group into a global business. 
+Tata is also one of the largest philanthropists in the world, having donated around 60–65% of his income to charity.
+</pre></p>
+<header>
+    <h3>Company</h3>
+</header>
+<main>
+    <ul>
+        <li>Taj Hotel</li>
+        <li>Tata Power</li>
+        <li>Tata Motors</li>
+    </ul>
+    <h3>Which companies would you like to invest in?</h3>
+    <form>
+        <label for="101">
+            <input type="radio" value="tata steel"name="class" id="101">TELCO
+        </label>
+        <br>
+
+        <label for="102">
+            <input type="radio" value="tata motors"name="class" id="102">TATA MOTORS
+        </label>
+        <br>
+        <label for="103">
+            <input type="radio" value="tanishq"name="class" id="102">TANISHQ
+        </label>     
+        <br>
+    <h3>Places where Sir Ratan Tata visited</h3>
+    <select name ="place" id="place">
+        <option value="PUNE">PUNE</option>
+        <option value="MUMBAI">MUMBAI</option>
+        <option value="DELHI">DELHI</option>
+        <option value="BANGLORE">BANGLORE</option>
+        <option value="AMRAVATI">AMRAVATI</option>
+    </select>
+    <br>
+    <br>
+    <h3>Which Tata industry would you like to visit?</h3>
+    <label for="106">
+        <input type="checkbox" value="tata steel"name="company" id="106">TELCO
+    </label>
+    <br>
+    <label for="107">
+        <input type="checkbox" value="tata motors"name="company" id="107">TATA MOTORS
+    </label><br>
+    <label for="108">
+        <input type="checkbox" value="tanishq"name="company" id="108">TANISHQ
+    </label>
+    <br>
+
+    <br>
+
+        <textarea name="feedback" id="101"
+         placeholder="please give your valuable feedback" rows="5">
+        </textarea>
+         <br>
+    <input type = "submit" value ="submit">
+    <br>
+    <br>
+    <br>
+    </form>
+</main>
+</body>
